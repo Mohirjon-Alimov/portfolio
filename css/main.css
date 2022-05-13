@@ -369,7 +369,7 @@ template {
 .hero {
   height: 600px;
   position: relative;
-  background-image: url(../../img/hero-img.png);
+  background-image: url(../img/hero-img.png);
 }
 
 .heading {
